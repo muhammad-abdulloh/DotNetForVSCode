@@ -1,0 +1,16 @@
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\bin\Release\net5.0\DotNetForVSCode.exe
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\bin\Release\net5.0\DotNetForVSCode.deps.json
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\bin\Release\net5.0\DotNetForVSCode.runtimeconfig.json
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\bin\Release\net5.0\DotNetForVSCode.runtimeconfig.dev.json
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\bin\Release\net5.0\DotNetForVSCode.dll
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\bin\Release\net5.0\DotNetForVSCode.pdb
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.csproj.AssemblyReference.cache
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.AssemblyInfoInputs.cache
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.AssemblyInfo.cs
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.csproj.CoreCompileInputs.cache
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.dll
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\refint\DotNetForVSCode.dll
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.pdb
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\DotNetForVSCode.genruntimeconfig.cache
+C:\Users\DotNetPC\OneDrive\Desktop\DotNetForVSCode\obj\Release\net5.0\ref\DotNetForVSCode.dll

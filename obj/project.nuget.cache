@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9q2xrAovVnIhbMQJDKQycKadkHME/jLPh3T258YPIyITtQ/J2z1SzONIQqPIczsbMcIyWFUCpWxK0YjVlAOwrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DotNetPC\\OneDrive\\Desktop\\DotNetForVSCode\\DotNetForVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DotNetPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
