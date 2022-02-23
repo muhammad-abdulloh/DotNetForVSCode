@@ -10,6 +10,7 @@ namespace DotNetForVSCode
             for (int i = 0; i<5; i++){
                 string some = Console.ReadLine();
                 Console.WriteLine(some);
+                Console.Read();
             }
         }
     }
